@@ -7,6 +7,6 @@ as well. 😊😄
 
  `Technologies Used: HTML, CSS, Javascript, JQuery, AJAX, Bootstrap`.
 
-## You can visit 👉 [here](https://indrakant-dana.github.io/Covid-19-Tracker/) to view the website. 💛
+## You can visit 👉 [here](https://indrakant-dana.github.io/Mars-Rover-Images-Extractor/) to view the website. 💛
 
 _**Thanks a lot for visiting**_. 😊
